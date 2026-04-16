@@ -29,11 +29,11 @@ Constraints satisfied:
 
 | Round | Court 1 | Court 2 | Court 3 |
 |---|---|---|---|
-| 1 | 1 vs 6 | 2 vs 5 | 3 vs 4 |
-| 2 | 2 vs 3 | 6 vs 4 | 1 vs 5 |
-| 3 | 1 vs 4 | 5 vs 3 | 6 vs 2 |
-| 4 | 5 vs 6 | 4 vs 2 | 1 vs 3 |
-| 5 | 1 vs 2 | 3 vs 6 | 4 vs 5 |
+| 1 | 1 vs 2 | 3 vs 4 | 5 vs 6 |
+| 2 | 5 vs 3 | 1 vs 6 | 2 vs 4 |
+| 3 | 1 vs 4 | 2 vs 5 | 6 vs 3 |
+| 4 | 6 vs 2 | 1 vs 3 | 4 vs 5 |
+| 5 | 1 vs 5 | 4 vs 6 | 3 vs 2 |
 
 ## Schedule B: Prioritizes Max 2 Per Court
 
@@ -44,11 +44,11 @@ Constraints satisfied:
 
 | Round | Court 1 | Court 2 | Court 3 |
 |---|---|---|---|
-| 1 | 1 vs 6 | 2 vs 5 | 3 vs 4 |
-| 2 | 1 vs 5 | 6 vs 4 | 2 vs 3 |
-| 3 | 5 vs 3 | 6 vs 2 | 1 vs 4 |
-| 4 | 4 vs 2 | 1 vs 3 | 5 vs 6 |
-| 5 | 3 vs 6 | 4 vs 5 | 1 vs 2 |
+| 1 | 1 vs 2 | 3 vs 4 | 5 vs 6 |
+| 2 | 1 vs 6 | 5 vs 3 | 2 vs 4 |
+| 3 | 6 vs 3 | 1 vs 4 | 2 vs 5 |
+| 4 | 4 vs 5 | 6 vs 2 | 1 vs 3 |
+| 5 | 3 vs 2 | 1 vs 5 | 4 vs 6 |
 
 ## Notes
 

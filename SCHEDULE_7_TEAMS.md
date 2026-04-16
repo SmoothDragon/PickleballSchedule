@@ -23,13 +23,13 @@ So the minimum and exact total is **21 games across 7 rounds**.
 
 | Round | Court 1 | Court 2 | Court 3 | Bye |
 |---|---|---|---|---|
-| 1 | 1 vs 6 | 2 vs 5 | 3 vs 4 | 7 |
-| 2 | 2 vs 3 | 1 vs 4 | 7 vs 6 | 5 |
-| 3 | 6 vs 4 | 7 vs 5 | 1 vs 2 | 3 |
-| 4 | 5 vs 3 | 6 vs 2 | 7 vs 4 | 1 |
-| 5 | 4 vs 2 | 7 vs 3 | 5 vs 1 | 6 |
-| 6 | 3 vs 1 | 5 vs 6 | 7 vs 2 | 4 |
-| 7 | 4 vs 5 | 7 vs 1 | 3 vs 6 | 2 |
+| 1 | 1 vs 2 | 3 vs 4 | 5 vs 6 | 7 |
+| 2 | 5 vs 3 | 7 vs 2 | 1 vs 4 | 6 |
+| 3 | 2 vs 4 | 1 vs 5 | 7 vs 6 | 3 |
+| 4 | 6 vs 3 | 7 vs 4 | 2 vs 5 | 1 |
+| 5 | 4 vs 5 | 6 vs 1 | 7 vs 3 | 2 |
+| 6 | 3 vs 1 | 7 vs 5 | 6 vs 2 | 4 |
+| 7 | 4 vs 6 | 3 vs 2 | 7 vs 1 | 5 |
 
 ## Check
 
