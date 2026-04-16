@@ -1,9 +1,10 @@
-# 7-Team Schedule (One Team Sits Each Round)
+# 7-Team Schedule (3 Courts, One Team Sits Each Round)
 
 This schedule assumes:
 
 - 7 teams (`1` through `7`)
 - Head-to-head games
+- 3 courts
 - Exactly one team has a bye each round
 - Goal: each team plays every other team exactly once
 

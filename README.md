@@ -3,9 +3,10 @@ Optimally schedule various multi-team events for pickleball
 
 ## Schedule Index
 
-- [6-team schedule (no byes)](./SCHEDULE_6_TEAMS.md)
-- [7-team schedule (one bye each round)](./SCHEDULE_7_TEAMS.md)
-- [8-team schedule (3 courts, sitting rotation)](./SCHEDULE_8_TEAMS.md)
+- [6-team schedule (3 courts, no byes)](./SCHEDULE_6_TEAMS_3_COURTS.md)
+- [7-team schedule (3 courts, one bye each round)](./SCHEDULE_7_TEAMS_3_COURTS.md)
+- [8-team schedule (3 courts, sitting rotation)](./SCHEDULE_8_TEAMS_3_COURTS.md)
+- [8-team schedule (4 courts, no byes)](./SCHEDULE_8_TEAMS_4_COURTS.md)
 
 ## Pairing Constraints
 

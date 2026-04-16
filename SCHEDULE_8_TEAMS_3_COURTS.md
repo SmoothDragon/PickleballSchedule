@@ -4,7 +4,7 @@ This schedule assumes:
 
 - 8 individual players (`1` through `8`)
 - Singles pairings (one matchup per court)
-- Up to 3 courts per round
+- 3 courts available
 - Goal: every player faces each of the other 7 players exactly once
 - Constraint: no one sits out in consecutive rounds
 

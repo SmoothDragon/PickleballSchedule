@@ -1,9 +1,10 @@
-# 6-Team Schedule (No One Sits)
+# 6-Team Schedule (3 Courts, No One Sits)
 
 This schedule assumes:
 
 - 6 teams (`1` through `6`)
 - Head-to-head games
+- 3 courts
 - No byes (all teams play every round)
 - Goal: each team plays every other team exactly once
 
@@ -58,4 +59,3 @@ Constraints satisfied:
   - max 2 appearances per team on any single court
   - no same-court appearances in back-to-back rounds
 - An exhaustive search over court assignments (including round reordering) found no schedule that satisfies both at once.
-
